@@ -1,6 +1,6 @@
 # Vendor
 rm -rf vendor/xiaomi/vayu
-git clone --depth=1 https://github.com/SkylineUI-Devices/vendor_xiaomi_vayu.git vendor/xiaomi/vayu -b fifteen-staging
+git clone --depth=1 https://github.com/SkylineUIDevices/platform_vendor_xiaomi_vayu.git vendor/xiaomi/vayu -b fifteen-staging
 
 # Kernel (Derp)
 rm -rf kernel/xiaomi/vayu
