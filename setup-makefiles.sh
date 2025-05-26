@@ -40,6 +40,10 @@ function vendor_imports() {
 EOF
 }
 
+        libOmxCore | \
+            libgrallocutils | \
+            libwpa_client) ;;
+
 # Initialize the helper
 setup_vendor "${DEVICE}" "${VENDOR}" "${ANDROID_ROOT}"
 
