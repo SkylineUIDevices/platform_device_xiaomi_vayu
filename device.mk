@@ -181,7 +181,6 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.qti.vendor \
     libsdmcore \
     libsdmutils \
-    libtinyxml \
     libvulkan \
     vendor.display.config@1.5 \
     vendor.display.config@1.11.vendor \
