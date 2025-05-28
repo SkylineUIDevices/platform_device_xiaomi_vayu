@@ -476,7 +476,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Thermal
 PRODUCT_PACKAGES += \
-    android.hardware.thermal@2.0-service.pixel \
+    android.hardware.thermal-service.pixel \
     thermal_symlinks
 
 # NeuralNetworks
